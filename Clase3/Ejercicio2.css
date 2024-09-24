@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #4B0082; /* Púrpura */
+}
+
+.periodo {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #6495ED; /* Azul */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
